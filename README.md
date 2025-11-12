@@ -1,16 +1,16 @@
-# Wonga Myendeki
+# Hi there! I am Wonga
 
-**Salesforce Developer & Business Analyst | Cape Town, SA**
+**Salesforce Developer & Business Analyst from Cape Town, SA**
 
-I build efficient, user-centric solutions on the Salesforce platform that turn complex business needs into scalable results. 
+I build efficient, user-centric solutions on the Salesforce platform that turn complex business needs into real scalable results. 
 
 ---
 
 ### 💡 Core Skills
 
-- **Salesforce Platform:** Apex, LWC, Aura, Flow, Visualforce, Einstein Bots
+- **Salesforce Platform:** Apex, LWC, Aura, Flow, Visualforce, Einstein Bots, XML
 - **Business Analysis:** Requirements Elicitation, Process Mapping, Data Modeling, User Stories
-- **Web Technologies:** JavaScript, HTML5, CSS3
+- **Web Technologies:** JavaScript, HTML5, CSS3, React
 - **DevOps & Tools:** Git, GitHub, SFDX, VS Code
 
 ---
