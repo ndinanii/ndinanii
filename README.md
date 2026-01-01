@@ -1,6 +1,6 @@
 # Hi there! I am Wonga
 
-**Salesforce Developer & Business Analyst from Cape Town, SA**
+**Jr Salesforce Solution Architect from Cape Town, SA**
 
 I build efficient, user-centric solutions on the Salesforce platform that turn complex business needs into real scalable results. 
 
@@ -8,18 +8,18 @@ I build efficient, user-centric solutions on the Salesforce platform that turn c
 
 ### 💡 Core Skills
 
-- **Salesforce Platform:** Apex, LWC, Aura, Flow, Visualforce, Einstein Bots, XML
+- **Salesforce Platform:** Apex, SOQL/SOSL/DML, LWC, Aura, Flow, Visualforce, Agentforce, Data Cloud, Einstein Bots, XML
 - **Business Analysis:** Requirements Elicitation, Process Mapping, Data Modeling, User Stories
-- **Web Technologies:** JavaScript, HTML5, CSS3, React
-- **DevOps & Tools:** Git, GitHub, SFDX, VS Code
+- **Web Technologies:** JavaScript, HTML5, CSS3, React, Astro, Typescript
+- **DevOps & Tools:** Git, GitHub, SFDX, VS Code, Notion, Slack
 
 ---
 
 ### 📈 Salesforce Journey
 
-- **Trailblazer Stats:** 60,000+ Points | 76+ Badges | 10+ Superbadges
-- **Certifications:** Salesforce Certified Associate
-- **Actively Pursuing:** Admin, Platform App Builder, Business Analyst, PD1, & Cloud Consultant certifications on the path to Solution Architecture.
+- **Trailblazer Status:** 60,000+ Points
+- **Certifications:** Salesforce Certified Administrator
+- **Actively Pursuing:** Platform App Builder, Platform Ddeveloper 1, & Data Cloud Consultant certifications on the path to Solution Architecture.
 
 ---
 
