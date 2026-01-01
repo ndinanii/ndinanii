@@ -19,7 +19,7 @@ I build efficient, user-centric solutions on the Salesforce platform that turn c
 
 - **Trailblazer Status:** 60,000+ Points
 - **Certifications:** Salesforce Certified Administrator
-- **Actively Pursuing:** Platform App Builder, Platform Ddeveloper 1, & Data Cloud Consultant certifications on the path to Solution Architecture.
+- **Actively Pursuing:** Platform App Builder, Platform Developer 1, Platform Data Architect, Platform Sharing and Visibility Architect & Data Cloud Consultant certifications on the path to Solution Architecture.
 
 ---
 
