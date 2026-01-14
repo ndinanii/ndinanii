@@ -1,6 +1,6 @@
 # Hi there! I am Wonga
 
-**Jr Salesforce Solution Architect from Cape Town, SA**
+**Aspiring Salesforce Solution Architect from Cape Town, SA**
 
 I build efficient, user-centric solutions on the Salesforce platform that turn complex business needs into real scalable results. 
 
@@ -17,9 +17,8 @@ I build efficient, user-centric solutions on the Salesforce platform that turn c
 
 ### 📈 Salesforce Journey
 
-- **Trailblazer Status:** 60,000+ Points
-- **Certifications:** Salesforce Certified Administrator
-- **Actively Pursuing:** Platform App Builder, Platform Developer 1, Platform Data Architect, Platform Sharing and Visibility Architect & Data Cloud Consultant certifications on the path to Solution Architecture.
+- **Trailblazer Status:** 60,000+ Points 
+- **Actively Pursuing:** Salesforce Certified Administrator, Platform App Builder, Platform Developer 1, Platform Data Architect, Platform Sharing and Visibility Architect & Data Cloud Consultant certifications on the path to Solution Architecture.
 
 ---
 
